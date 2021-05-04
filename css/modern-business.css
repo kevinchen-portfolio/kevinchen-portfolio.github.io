@@ -1,0 +1,183 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.carousel-caption d-none d-md-block {
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  padding-bottom:50px;
+}
+
+/* Kevin Edits START FROM HERE */
+
+/* font */
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  opacity: 0.85;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 450;
+}
+
+a.dropdown-item {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 350;
+  color: #085DA3;
+}
+
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 26px;
+}
+
+a, li.breadcrumb-item.active {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+
+p.card-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+p.m-0.text-center.text-white {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+h4.card-header {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+a.btn.btn-primary {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+
+h1.my-4, h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  color: #085DA3;
+  font-weight: bold;
+  opacity: 0.85;
+}
+
+/* Adds text shadow effects and letter spacing */
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  text-shadow: 4px 4px 5px rgb(22, 21, 21);
+  letter-spacing: 5px;
+  color: white;
+  font-weight: 700;
+}
+
+h7 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  text-shadow: 4px 4px 5px rgb(22, 21, 21);
+  color: white;
+  font-weight: 600;
+}
+
+
+
+/* colour */
+.navbar-dark .navbar-brand {
+	color: ffffff;
+}
+
+.bg-dark {
+  background-color: #0A71C6 !important;
+	border-color: #085DA3;
+	-moz-box-shadow: 2px 2px 7px #000;
+	-webkit-box-shadow: 2px 2px 7px #000;
+}
+
+.card-header {
+  background-color: #41A4F5 ;
+}
+
+h4 {
+  color: white;
+}
+
+.card-text {
+  color: #085DA3;
+}
+
+.carousel-control-prev-icon  {
+  height: 35px;
+  width: 35px;
+}
+
+.carousel-control-next-icon {
+  height: 35px;
+  width: 35px;
+} 
+
+
+/* About Me */
+.aboutMe {
+  font-size: 18px;
+
+}
+
+.img-fluid.rounded.mb-4{
+  height: 370px;
+  margin-top: 40px;
+}
+
+
+
+
+/* Leaflet map */
+#mapid {
+  background: white;
+  height: 500px; 
+}
+
+/* Leaflet map description */
+div.mapscript{
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom:5px;
+  padding-left:5px;
+}
+
+
+

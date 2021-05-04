@@ -1,0 +1,28 @@
+/* Leaflet map */
+#mapid {
+  background: white;
+  height: 500px; 
+}
+
+/* Leaflet map description */
+div.mapscript{
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom:5px;
+  padding-left:5px;
+}
+
+
+/* pop-up window */
+h3
+{
+font-family: 'Itim', cursive;
+}
+.p1
+{
+font-family: 'Itim', cursive;
+font-size: 3;
+} 
+
+
+
